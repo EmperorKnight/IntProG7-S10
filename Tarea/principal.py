@@ -68,7 +68,7 @@ def main():
                     E.esperar()
                     E.limpiar()
             E.presionar()
-        else:
+        elif decision == "4":
             E.limpiar()
             print("-----------------------------------------------")
             print("Salida del programa con exito")
